@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Improv Toolbox</string>
+    <string name="action_settings">Settings</string>
+
+    <!--SUGGESTIONATOR FRAGMENT STRINGS-->
+    <string name="suggestionator">Suggestionator</string>
+    <string name="suggestion">Your Suggestion is&#8230;</string>
+    <string name="object">Object</string>
+    <string name="relationship">Relationship</string>
+    <string name="location">Location</string>
+    <string name="occupation">Occupation</string>
+    <string name="event">Event</string>
+    <string name="genre">Genre</string>
+    <string name="person">Person</string>
+    <string name="emotion">Emotion</string>
+    <string name="oddball">Oddball</string>
+
+    <!--SOUNDBOARD FRAGMENT STRINGS-->
+    <string name="soundboard">Soundboard</string>
+    <string name="volume">Volume 50%</string>
+    <string name="airhorn">Airhorn</string>
+    <string name="yay">Yay</string>
+    <string name="knock">Knock</string>
+    <string name="ding">Ding</string>
+    <string name="buzzer">Buzzer</string>
+    <string name="countdown">Countdown</string>
+    <string name="phone1">Phone 1</string>
+    <string name="phone2">Phone 2</string>
+    <string name="doorbell">Doorbell</string>
+    <string name="beat1">Beat 1</string>
+    <string name="beat2">Beat 2</string>
+    <string name="beat3">Beat 3</string>
+    <string name="kendrick">Beats by Kendrick Lemke</string>
+
+    <!--HALF LIFE FRAGMENT STRINGS-->
+    <string name="halflife">Half Life</string>
+    <string name="howto_halflife">How to play Half Life: \nPlayers act out a scene for a minute.
+        When the timer ends, act out the SAME SCENE again in half the time.
+        Continue this until the players act out the scene in 1.5 seconds, then take down the scene.
+        \n\nProTip: Remember to heighten the "buttons" of the scene each round while dropping the unimportant parts to make up for the loss of time.
+    </string>
+    <string name="close">Thanks, got it!</string>
+    <string name="start">Start</string>
+    <string name="half">Half</string>
+    <string name="reset">Reset</string>
+    <string name="sixty">60.0</string>
+
+    <!--GIF TWITTER FRAGMENT STRINGS-->
+    <string name="giftwitter">GIF Twitter</string>
+</resources>
