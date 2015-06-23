@@ -1571,7 +1571,7 @@ public class Helper {
             "getting married",
             "becoming a parent",
             "undergoing first surgery",
-            "going on first date",
+            "going on a first date",
             "having a first kiss",
             "attending a funeral",
             "smoking a cigarette for the first time",
@@ -1605,7 +1605,6 @@ public class Helper {
             "getting audited",
             "passing a kidney stone",
             "becoming a parent",
-            "being accidentally racist",
             "in the future",
             "inventing a time machine",
             "trying to get laid",
@@ -1621,7 +1620,15 @@ public class Helper {
             "trash talking while playing online video games",
             "applying to Wal-Mart",
             "shopping at a farmers market",
-            "interviewing fast food applicants as if the world depended on it"
+            "interviewing fast food applicants as if the world depended on it",
+            "filing taxes",
+            "on their death bed",
+            "playing board games",
+            "crossing the street",
+            "riding the bus",
+            "touring a chocolate factory",
+            "hangliding",
+            "going hunting"
     };
 
     String[] genre = {
@@ -2135,8 +2142,8 @@ public class Helper {
         int x =(int) Math.round(Math.random() * (relationship.length - 1)); //get relationship
         String ad1 = adj[(int)(Math.round(Math.random() * (adj.length - 1)))];	 //get adjective
         String ad2 = adj[(int)(Math.round(Math.random() * (adj.length - 1)))];	 //get adjective
-        String result = "A "+ ad1 + " " + relationship[x][0] + " and their " + ad2 + " " + relationship[x][1]; //Combine the results
-        return result;
+        return "A "+ ad1 + " " + relationship[x][0] + " and their " + ad2 + " " + relationship[x][1]; //Combine the results
+
     }
 
     public String location(){
